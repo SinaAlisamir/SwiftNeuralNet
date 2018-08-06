@@ -2,7 +2,7 @@
 
 This is a simple implementation of a fully connected neural network in swift.</br>
 
-You can simple run the following codes in your terminal to see how it works:</br>
+You can simply run the following codes in your terminal to see how it works:</br>
 
 swiftc Demo.swift</br>
 ./Demo</br>
